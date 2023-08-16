@@ -1,4 +1,4 @@
-### Hi ,I'm Bambo Trare 👋
+### Hi ,I'm Bambo Traore 👋
 
 
 **bambadij/bambadij** is a ✨ _special_ ✨ repository.
