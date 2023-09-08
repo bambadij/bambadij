@@ -1,7 +1,7 @@
 ### Hi ,I'm Bambo Traore 👋
 
 
-**bambadij/bambadij** is a ✨ _special_ ✨ repository.
+**bambadij/bambadij** is a ✨ _special_ ✨ .
 
 
 - 🔭 I’m currently working on machine Learning Projet and on React native App
