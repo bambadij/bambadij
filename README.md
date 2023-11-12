@@ -1,6 +1,6 @@
 <p align=”center”>
-  <img width=”200" height=”200"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/56828901/282273162-a502f7da-b6e3-456b-b12d-a1d940283438.PNG" alt=”bambobanner” >
-=</p>
+  <img width="200" height="200"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/56828901/282273162-a502f7da-b6e3-456b-b12d-a1d940283438.PNG" alt=”bambobanner” >
+</p>
 
 ### Hi ,I'm Bambo Traore 👋
 
