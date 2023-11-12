@@ -1,4 +1,5 @@
 
+(https://www.canva.com/design/DAFz6dL1YrQ/-Mzm1flQhmT6MxEYH64-AQ/edit?utm_content=DAFz6dL1YrQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
 
 
 
@@ -14,5 +15,3 @@
 - 📫 How to reach me: bambadij@gmail.com
 - 😄 Pronouns: bambadij
 
-
-![banner](https://www.canva.com/design/DAFz6dL1YrQ/-Mzm1flQhmT6MxEYH64-AQ/edit?utm_content=DAFz6dL1YrQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
