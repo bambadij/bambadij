@@ -15,4 +15,4 @@
 - 😄 Pronouns: bambadij
 
 
-![banner](<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>)
+![banner](https://www.canva.com/design/DAFz6dL1YrQ/-Mzm1flQhmT6MxEYH64-AQ/edit?utm_content=DAFz6dL1YrQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
