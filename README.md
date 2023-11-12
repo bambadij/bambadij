@@ -1,9 +1,6 @@
-
-(https://www.canva.com/design/DAFz6dL1YrQ/-Mzm1flQhmT6MxEYH64-AQ/edit?utm_content=DAFz6dL1YrQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
-
-
-
-
+<p align=”center”>
+![bambobanner](https://github.com/bambadij/bambadij/assets/56828901/a502f7da-b6e3-456b-b12d-a1d940283438)
+</p>
 ### Hi ,I'm Bambo Traore 👋
 
 
