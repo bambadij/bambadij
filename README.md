@@ -1,5 +1,5 @@
 <p align=”center”>
-![bambobanner](https://github.com/bambadij/bambadij/assets/56828901/a502f7da-b6e3-456b-b12d-a1d940283438)
+  <img width=”200" height=”200"  src=”https://github.com/bambadij/bambadij/assets/56828901/a502f7da-b6e3-456b-b12d-a1d940283438.png" alt=”my banner” />
 </p>
 ### Hi ,I'm Bambo Traore 👋
 
