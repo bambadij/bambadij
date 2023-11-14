@@ -104,5 +104,5 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadij&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambadij&layout=compact)](https://github.com/bambadij)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambadij&layout=dark)](https://github.com/bambadij)
 
