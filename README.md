@@ -36,6 +36,8 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 - 📱 React Native
 - Understanding APIs and  FastAPI framework.
 - Machine Learning
+- DeepLearning :NLP
+- AI
 - Python
 - Excel
 - Power BI
