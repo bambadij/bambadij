@@ -26,7 +26,7 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 - My old projects
 - Kans Africa (React-Native)
 - Machine Learning Classification Streamlit
-- Natural Language Project : Sentiment Analysis with BERT and RoBERTA
+- Natural Language Project : Sentiment Analysis with BERT and RoBERTa
 - Laravel API with Swagger for Kans Africa
 - Machine  Learning Classification and Regression Streamlit ,Gradio
 - Understanding APIs and  FastAPI framework.
