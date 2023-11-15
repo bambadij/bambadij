@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://medium.com/@bambadij" target="_blank" rel="noreferrer">
-  <img width=”200" height=”150"  src="https://github-production-user-asset-6210df.s3.amazonaws.com/56828901/282273162-a502f7da-b6e3-456b-b12d-a1d940283438.PNG" alt=”bambobanner” >
+  <img width=”200" height=”150"  src="https://github.com/bambadij/bambadij/assets/56828901/ef823680-4013-47f0-8a7d-cd0b69ccc99e.PNG" alt=”reamimagenormale” >
 </a>
 </p>
 
