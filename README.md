@@ -17,7 +17,9 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/traore-bambo/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bambo | LinkedIn"/></a>
 <a href="https://twitter.com/Bamdij10"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="bambo | Twitter"/></a>
-<a href="https://medium.com/@bambadij"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="bambo | Medium" width="21px"/></a>
+<a href="https://medium.com/@bambadij">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
