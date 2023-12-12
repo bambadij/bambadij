@@ -53,7 +53,7 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
+[Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </br>
 
 ## 🖥️ Technical Web Developer Skills
@@ -73,7 +73,6 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 </br>
 ## Cloud AWS 
 <br>
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
