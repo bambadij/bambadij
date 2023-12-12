@@ -71,8 +71,11 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </br>
-## Cloud AWS 
+
+## ☁ Cloud AWS 
+
 <br>
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
