@@ -89,6 +89,7 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 
 ## 📝 Latest Blog Posts
 - [Sepsi predicting and API creation with FASTAPI](https://medium.com/@bambadij/sepsis-prediction-and-api-creation-with-fastapi-92d67f91a540)
+- [React native app using FastAPI Machine Learning Sepis predicting](https://medium.com/@bambadij/react-native-app-using-fastapi-machine-learning-predicting-sepsis-e81d85b53054)
 - [Sentiment Analysis App Gradio in Hugging Face](https://medium.com/@bambadij/sentiment-analysis-app-gradio-huggingface-88a37cfe3d07)
 - [Predicting Diabetes App with GRADIO](https://medium.com/@bambadij/predicting-diabetes-app-with-gradio-3eb99a08c5eb)
 - [BUILD APP MACHINE LEARNING WITH GRADIO](https://medium.com/@bambadij/build-app-machine-learning-with-gradio-827e878631fa)
