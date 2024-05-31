@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://medium.com/@bambadij" target="_blank" rel="norefe
 I'm a Data Analyst 🎨 || ML Enthusiast || Web Developer 💻 !
 </h2> 
 
-Junior data analyst|Machine Learning Enthusiast , I possess expertise in web development. I am passionate about technology.
+Data analyst|Machine Learning Enthusiast , I possess expertise in web development. I am passionate about technology.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/traore-bambo/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bambo | LinkedIn"/></a>
@@ -39,6 +39,9 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 - Understanding APIs and  FastAPI framework.
 - Machine Learning
 - DeepLearning :NLP
+- Convolutional Neural NetWork
+- AWS Sagemaker
+- Computer Vision
 - AI
 - Python
 - Excel
@@ -88,12 +91,10 @@ Junior data analyst|Machine Learning Enthusiast , I possess expertise in web dev
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 📝 Latest Blog Posts
+- [Predict Bike Sharing With AutoGluon and AWS SageMaker](https://bambadij.medium.com/predict-bike-sharing-with-autogluon-and-aws-sagemaker-b03e2a59f48d)
 - [Sepsi predicting and API creation with FASTAPI](https://medium.com/@bambadij/sepsis-prediction-and-api-creation-with-fastapi-92d67f91a540)
 - [React native app using FastAPI Machine Learning Sepis predicting](https://medium.com/@bambadij/react-native-app-using-fastapi-machine-learning-predicting-sepsis-e81d85b53054)
 - [Sentiment Analysis App Gradio in Hugging Face](https://medium.com/@bambadij/sentiment-analysis-app-gradio-huggingface-88a37cfe3d07)
-- [Predicting Diabetes App with GRADIO](https://medium.com/@bambadij/predicting-diabetes-app-with-gradio-3eb99a08c5eb)
-- [BUILD APP MACHINE LEARNING WITH GRADIO](https://medium.com/@bambadij/build-app-machine-learning-with-gradio-827e878631fa)
-- [BUILD APP MACHINE LEARNING WITH Streamlit](https://medium.com/@bambadij/build-app-machine-learning-with-streamlit-a1e533a5d594)
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadij&show_icons=true&theme=dark)
