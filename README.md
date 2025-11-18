@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://medium.com/@bambadij" target="_blank" rel="norefe
 I'm a Data Analyst 🎨 || ML Enthusiast || Web Developer 💻 !
 </h2> 
 
-Data analyst|Machine Learning Enthusiast , I possess expertise in web development. I am passionate about technology.
+AI developer|Machine Learning Enthusiast , I possess expertise in web development. I am passionate about technology.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/traore-bambo/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="bambo | LinkedIn"/></a>
@@ -36,7 +36,7 @@ Data analyst|Machine Learning Enthusiast , I possess expertise in web developmen
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Understanding APIs and  FastAPI framework.
+- Work APIs and  FastAPI framework.
 - Machine Learning
 - DeepLearning :NLP
 - Convolutional Neural NetWork
@@ -44,7 +44,7 @@ Data analyst|Machine Learning Enthusiast , I possess expertise in web developmen
 - Computer Vision
 - AI
 - Python
-- Excel
+- ollama
 - Power BI
 - SQL 
 
