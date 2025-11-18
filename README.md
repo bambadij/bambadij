@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://medium.com/@bambadij" target="_blank" rel="norefe
 </h3>
 
 <h2 align="center">
-I'm a Data Analyst 🎨 || ML Enthusiast || Web Developer 💻 !
+I'm AI developer 🎨 || ML Enthusiast || Web Developer 💻 !
 </h2> 
 
 AI developer|Machine Learning Enthusiast , I possess expertise in web development. I am passionate about technology.
