@@ -97,5 +97,5 @@ AI developer|Machine Learning Enthusiast , I possess expertise in web developmen
 - [Sentiment Analysis App Gradio in Hugging Face](https://medium.com/@bambadij/sentiment-analysis-app-gradio-huggingface-88a37cfe3d07)
 
 ## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambadij&layout=compact)](https://github.com/bambadij)
+![bambadij's GitHub stats](https://github-readme-stats.vercel.app/api?username=bambadij&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bambadij&layout=compact)](https://github.com/bambadij)
 
